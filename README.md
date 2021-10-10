@@ -19,7 +19,7 @@ nvm use --lts
 
 node --version
 
-npx create-snowpack-app gifmakr --template @snowpack/app-template-react
+npx create-snowpack-app gifak --template @snowpack/app-template-react
 
 npm install @ffmpeg/ffmpeg @ffmpeg/core
 
